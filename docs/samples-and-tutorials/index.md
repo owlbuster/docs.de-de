@@ -22,7 +22,7 @@ Die .NET-Dokumentation enthält einen Satz Beispiele und Tutorials zum Erlernen 
 
 ## <a name="net-core"></a>.NET Core
 
-### <a name="samples"></a>Proben
+### <a name="samples"></a>Beispiele
 
 **[Komponententests in .NET Core mit „dotnet test“](../core/testing/unit-testing-with-dotnet-test.md)**
 
@@ -44,7 +44,7 @@ Informationen hierzu finden Sie in den [ASP.NET Core-Tutorials](/aspnet/core/tut
 
 ## <a name="c-language"></a>C#-Sprache
 
-### <a name="samples"></a>Proben
+### <a name="samples"></a>Beispiele
 
 **[Iteratoren](../csharp/iterators.md)**
 
